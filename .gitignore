@@ -70,3 +70,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/TopDownEngine
+Assets/DunGen
+Assets/_Prefabs/Weapon/OrcAxe.prefab
+Assets/_Prefabs/Weapon/Sword.prefab
+Packages
+Assets/Polygon Arsenal
+Assets/Kenney*/**/*png
+Assets/Kenney*/**/*fbx
+Assets/Kenney*/**/*glb
+Assets/Kenney*/**/*obj
+Assets/Kenney*/**/*mtl
+Assets/Kenney*/**/*svg
+Assets/Kenney*/**/*xml
+Assets/Kenney*/**/*swf
+Assets/PolygonIcons
+Assets/MMData
